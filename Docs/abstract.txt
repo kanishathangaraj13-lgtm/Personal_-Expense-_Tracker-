@@ -1,0 +1,5 @@
+Personal Expense Tracker
+
+Abstract
+
+The Personal Expense Tracker is a web-based application developed to help users manage their daily income and expenses efficiently. Users can register, log in, add income, record expenses, categorize transactions, and monitor their financial activities. The system stores all records securely in a MySQL database and provides reports that help users understand their spending habits. The project aims to improve personal financial management through a simple and user-friendly interface.
