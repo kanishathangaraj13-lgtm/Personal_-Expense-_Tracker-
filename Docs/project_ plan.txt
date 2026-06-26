@@ -1,0 +1,31 @@
+PERSONAL EXPENSE TRACKER
+
+Project Objective:
+To develop a secure and user-friendly Personal Expense Tracker that allows users to record their income and expenses, monitor daily transactions, and generate financial reports for effective money management.
+
+Modules:
+
+1. User Registration
+2. User Login
+3. Income Management
+4. Expense Management
+5. Transaction History
+6. Report Management
+
+Technologies Used:
+
+- HTML
+- CSS
+- JavaScript
+- MySQL
+
+Project Deliverables:
+
+- Use Case Diagram
+- ER Diagram
+- Frontend Pages
+- Database Schema
+- Project Documentation
+
+Expected Outcome:
+A simple Personal Expense Tracker that enables users to efficiently manage their income and expenses, track financial activities, and improve budgeting through an easy-to-use web-based application.
